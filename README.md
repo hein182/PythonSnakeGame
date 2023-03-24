@@ -26,7 +26,7 @@ pip install keyboard
 ```
 
 
-Once you have Pygame installed, simply clone or download the repository and run the `main.py` file with Python.
+Once you have Pygame installed, simply clone or download the repository and run the `main.py` file with Python(Keyboard for some reason needs admin privileges too so many need to run in su).
 
 
 ## Credits
