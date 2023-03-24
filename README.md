@@ -14,6 +14,8 @@ To play the game, simply run the `snake.py` file with Python. The game board wil
 
 Use the arrow keys on your keyboard to control the direction of the snake. The goal is to eat as much food as possible without hitting the wall or the snake's own body.
 
+![image](https://user-images.githubusercontent.com/22949648/227522368-7102e460-4825-4dfa-af14-df6f958717c1.png)
+
 If you collide with your own body, the game ends and your score is displayed. You can restart the game by pressing r or exit with r + escape.
 
 ## Installation
